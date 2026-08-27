@@ -1,4 +1,4 @@
-# First Bank Mobile Banking Landing Page
+# First Bank Mobile Money Banking Landing Page
 
 Website for Firstbank Mobile Banking
 
